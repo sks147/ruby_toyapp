@@ -1,9 +1,0 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
-
-one:
-  code: MyString
-  added: 2016-05-19 11:45:26
-
-two:
-  code: MyString
-  added: 2016-05-19 11:45:26
