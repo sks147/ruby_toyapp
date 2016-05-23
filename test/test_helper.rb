@@ -22,7 +22,7 @@ class ActiveSupport::TestCase
       post login_path, session:{ email: user.email, password: password,
                                 remember_me: remember_me }
     else
-      session[:user_id] = user_id
+      session[:user_id] = user.id
     end
   end
   
