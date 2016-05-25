@@ -1,2 +1,1 @@
-# Ruby on rails sample inventory app
-# created by sks147
+A simple Twitter Clone with Ruby on Rails.
